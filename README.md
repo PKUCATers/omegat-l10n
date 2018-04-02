@@ -1,0 +1,1 @@
+# omegat-l10n
